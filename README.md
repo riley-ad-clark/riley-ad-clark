@@ -12,6 +12,8 @@ I am also well versed in both the Microsoft, and Adobe suite.
 
 Feel free to check out some of my work! <a style="color:#2aa889" href="www.rileyclar.dev/" target="_blank">rileyclark.dev</a>
 
+##
+
 ### Skills
 <p align="center">
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=3f829d"/>&nbsp;
@@ -19,3 +21,7 @@ Feel free to check out some of my work! <a style="color:#2aa889" href="www.riley
   <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=3f829d")/>&nbsp;
   <img src="https://img.shields.io/badge/web-markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=fb7e00")/>&nbsp;
 </p>
+
+##
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riley-ad-clark&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
