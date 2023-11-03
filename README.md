@@ -1,6 +1,6 @@
 ![](./assets/hero-banner.png)
 
-## About 🥁 🖥️
+## About 🖥️🥁 
 Hello! My name is Riley Clark. I am an aspiring software developer based in Winnipeg, Manitoba.
 
 I am currently studying software development at the Manitoba Institude of Trades and Technology (MITT), specializing in full-stack development.
@@ -14,7 +14,7 @@ Feel free to check out some of my work! | <a style="color:#2aa889" href="https:/
 
 ##
 
-### Skills ✍️
+### Skills 💡✍️
 <p align="center">
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=3f829d"/>&nbsp;
   <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=fb7e00")/>&nbsp;
