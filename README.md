@@ -10,7 +10,7 @@ and listening to any, and all music.
 Currently, my programming experience consists of HTML, CSS, JavaScript, and Markdown. By the end of my course, I plan to have learned C#, React, and many others!
 I am also well versed in both the Microsoft, and Adobe suite.
 
-Feel free to check out some of my work! <a style="color:#2aa889" href="www.rileyclar.dev/" target="_blank"></a>
+Feel free to check out some of my work! | <a style="color:#2aa889" href="https://www.rileyclark.dev" target="_blank">www.rileyclark.dev</a>
 
 ##
 
