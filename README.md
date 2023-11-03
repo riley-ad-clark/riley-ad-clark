@@ -31,7 +31,8 @@ Feel free to check out some of my work! | <a style="color:#2aa889" href="https:/
 ## Contact 📫
 Have a question, or want to know more?
 
-Shoot me a message!
+<b>Shoot me a message!</b>
+<br>
 📧 Email: [rileyclarky@gmail.com](mailto:your.email@example.com) 
 <br>
 ✖️ X: <a style="color:#2aa889" href="[https://www.rileyclark.dev](https://twitter.com/avogrotto)" target="_blank">riley.apk</a>
