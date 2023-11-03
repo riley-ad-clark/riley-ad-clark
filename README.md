@@ -24,6 +24,6 @@ Feel free to check out some of my work! <a style="color:#2aa889" href="www.riley
 
 ##
 
-[![GitHub Activity](https://img.shields.io/github/commit-activity/y/riley-ad-clark?label=GitHub%20Activity&style=for-the-badge&color=3f829d&labelColor=fb7e00)]
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riley-ad-clark&theme=gotham&bg_color=3f829d&hide_border=true&color=fb7e00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
