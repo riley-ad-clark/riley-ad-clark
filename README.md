@@ -1,4 +1,4 @@
-![](./assets/hero-banner.png)
+![](./assets/hero.png)
 
 ## About 🖥️🥁 
 Hello! My name is Riley Clark. I am an aspiring software developer based in Winnipeg, Manitoba.
