@@ -17,9 +17,9 @@ Feel free to check out some of my work! | <a style="color:#2aa889" href="https:/
 ### Skills 💡✍️
 <p align="center">
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=3f829d"/>&nbsp;
-  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=fb7e00")/>&nbsp;
+  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=011226")/>&nbsp;
   <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=3f829d")/>&nbsp;
-  <img src="https://img.shields.io/badge/web-markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=fb7e00")/>&nbsp;
+  <img src="https://img.shields.io/badge/web-markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=011226")/>&nbsp;
 </p>
 
 ##
