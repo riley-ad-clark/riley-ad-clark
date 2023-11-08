@@ -5,7 +5,7 @@ Hello! My name is Riley Clark. I am an aspiring software developer based in Winn
 
 I am currently studying software development at the Manitoba Institude of Trades and Technology (MITT), specializing in full-stack development.
 I enjoy my work as a student creating websites that are not only beautiful, but fully functional as well! In my spare time, I enjoy gaming, playing the drums,
-and listening to any, and all music.
+and listening to any, and all kinds of music.
 
 Currently, my programming experience consists of HTML, CSS, JavaScript, and Markdown. By the end of my course, I plan to have learned C#, React, and many others!
 I am also well versed in both the Microsoft, and Adobe suite.
