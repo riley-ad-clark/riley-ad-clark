@@ -5,22 +5,24 @@ Hello! My name is Riley Clark. I am an aspiring software developer based in Winn
 
 I am currently studying software development at the Manitoba Institude of Trades and Technology (MITT), specializing in full-stack development.
 I enjoy my work as a student creating websites that are not only beautiful, but fully functional as well! In my spare time, I enjoy gaming, playing the drums,
-and listening to any, and all kinds of music.
+and listening to any and all kinds of music.
 
-Currently, my programming experience consists of HTML, CSS, JavaScript, and Markdown. By the end of my course, I plan to have learned C#, React, and many others!
-I am also well versed in both the Microsoft, and Adobe suite.
+Currently, my focus is on back-end development using: C#, with .NET frameworks, and SQL integration, but I also know HTML, CSS, and JavaScript as well!
 
-Feel free to check out some of my work! | <a style="color:#2aa889" href="https://www.rileyclark.dev" target="_blank">rileyclark.dev</a>
+Feel free to check out some of my work! | <a style="color:#2aa889" href="https://rileyclark.work" target="_blank">rileyclark.work</a>
 
 ##
 
 ### Skills 💡✍️
-<p align="center">
-  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=3f829d"/>&nbsp;
-  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=011226")/>&nbsp;
-  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=3f829d")/>&nbsp;
-  <img src="https://img.shields.io/badge/web-markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=011226")/>&nbsp;
-</p>
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+</div>
 
 ##
 
@@ -35,6 +37,5 @@ Have a question, or want to know more?
 <br>
 📧 Email: [rileyclarky@gmail.com](mailto:your.email@example.com) 
 <br>
-📸 Instagram: <a style="color:#2aa889" href="https://www.instagram.com/riley.apk/" target="_blank">riley.apk</a>
 
 ##
