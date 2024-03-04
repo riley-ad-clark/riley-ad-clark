@@ -35,7 +35,7 @@ Have a question, or want to know more?
 
 <b>Shoot me a message!</b>
 <br>
-📧 Email: [rileyclarky@gmail.com](mailto:your.email@example.com) 
+📧 Email: [r1l3ycl4rk@gmail.com](mailto:r1l3ycl4rk@gmail.com) 
 <br>
 
 ##
