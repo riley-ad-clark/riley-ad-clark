@@ -1,4 +1,7 @@
-![](./assets/hero.png)
+<p align="center">
+  <img src="./assets/g3.png" alt="Your Image Alt Text">
+</p>
+
 
 ## About 🖥️🥁 
 Hello! My name is Riley Clark. I am an aspiring software developer based in Winnipeg, Manitoba.
