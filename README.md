@@ -35,7 +35,9 @@ Have a question, or want to know more?
 
 <b>Shoot me a message!</b>
 <br>
-📧 Email: [r1l3ycl4rk@gmail.com](mailto:r1l3ycl4rk@gmail.com) 
+📧 Email: [r1l3ycl4rk@gmail.com](mailto:r1l3ycl4rk@gmail.com)
+<br>
+⛓️ LinkedIn: [riley-ad-clark](https://www.linkedin.com/in/riley-clark-5862202b5/)
 <br>
 
 ##
