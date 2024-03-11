@@ -3,7 +3,7 @@
 ## About 🖥️🥁 
 Hello! My name is Riley Clark. I am an aspiring software developer based in Winnipeg, Manitoba.
 
-I am currently studying software development at the Manitoba Institude of Trades and Technology (MITT), specializing in full-stack development.
+I am currently studying software development at the Manitoba Institute of Trades and Technology (MITT), specializing in full-stack development.
 I enjoy my work as a student creating websites that are not only beautiful, but fully functional as well! In my spare time, I enjoy gaming, playing the drums,
 and listening to any and all kinds of music.
 
