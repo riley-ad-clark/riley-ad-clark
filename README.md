@@ -17,7 +17,7 @@ Feel free to check out some of my work! | <a style="color:#2aa889" href="https:/
 ##
 
 ### Skills 💡✍️
-<div style="display: flex; flex-direction: row; justify-content: center;">
+<p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
@@ -25,11 +25,11 @@ Feel free to check out some of my work! | <a style="color:#2aa889" href="https:/
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-</div>
+</p>
 
 ##
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riley-ad-clark&theme=gotham&bg_color=transparent&hide_border=true&color=3f829d&line=fff1cf&point=fff1cf&text=fff1cf)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riley-ad-clark&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)]
 
 ##
 
