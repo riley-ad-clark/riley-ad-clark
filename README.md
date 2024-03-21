@@ -10,7 +10,7 @@ I am currently studying software development at the Manitoba Institute of Trades
 I enjoy my work as a student creating websites that are not only beautiful, but fully functional as well! In my spare time, I enjoy gaming, playing the drums,
 and listening to any and all kinds of music.
 
-Currently, my focus is on back-end development using: C#, with .NET frameworks, and SQL integration, but I also know HTML, CSS, and JavaScript as well!
+Be sure to check out my skills section to see what I know!
 
 Feel free to check out some of my work! | <a style="color:#2aa889" href="https://rileyclark.work" target="_blank">rileyclark.work</a> (please note that I am working on getting this updated 20/03/2024)
 
