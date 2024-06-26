@@ -12,7 +12,7 @@ and listening to any and all kinds of music.
 
 Be sure to check out my skills section to see what I know!
 
-Feel free to check out some of my work! | <a style="color:#2aa889" href="https://rileyclark.work" target="_blank">rileyclark.work</a> (please note that I am working on getting this updated 20/03/2024)
+Feel free to check out some of my work! | <a style="color:#2aa889" href="https://rileyclark.work" target="_blank">rileyclark.work</a> (It is FINALLY UPDATED! 06/26/2024)
 
 ##
 
