@@ -20,7 +20,6 @@ Feel free to check out some of my work! | <a style="color:#2aa889" href="https:/
   <div align="center"><h3>Languages / Lightweights</h3></div>
   <p align="center">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%61dbfb" alt="React">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -30,6 +29,7 @@ Feel free to check out some of my work! | <a style="color:#2aa889" href="https:/
 
   <div align="center"><h3>Frameworks</h3></div>
   <p align="center">
+    <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%61dbfb" alt="React">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
     <img src="https://img.shields.io/badge/.NET_core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
