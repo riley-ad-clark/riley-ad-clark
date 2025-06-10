@@ -4,15 +4,13 @@
 
 
 ## About 🖥️🥁 
-Hello! My name is Riley Clark. I am an aspiring software developer based in Winnipeg, Manitoba.
+Hello! My name is Riley Clark. I am a full-stack software developer based in Winnipeg, Manitoba.
 
-I am currently studying software development at the Manitoba Institute of Trades and Technology (MITT), specializing in full-stack development.
-I enjoy my work as a student creating websites that are not only beautiful, but fully functional as well! In my spare time, I enjoy gaming, playing the drums,
-and listening to any and all kinds of music.
+I am currently working at Glacier FarmMedia creating sponsored email promotions, but nonetheless, I have some side projects I enjoy working on!
 
 Be sure to check out my skills section to see what I know!
 
-Feel free to check out some of my work! | <a style="color:#2aa889" href="https://rileyclark.work" target="_blank">rileyclark.work</a> (It is FINALLY UPDATED! 06/26/2024)
+Feel free to check out some of my work! | <a style="color:#2aa889" href="https://rileyclark.work" target="_blank">rileyclark.work</a>
 
 ##
 
@@ -63,7 +61,7 @@ Have a question, or want to know more?
 
 <b>Shoot me a message!</b>
 <br>
-📧 Email: [r1l3ycl4rk@gmail.com](mailto:r1l3ycl4rk@gmail.com)
+📧 Email: [rileyclarky@gmail.com](mailto:rileyclarky@gmail.com)
 <br>
 ⛓️ LinkedIn: [riley-ad-clark](https://www.linkedin.com/in/riley-clark-5862202b5/)
 <br>
