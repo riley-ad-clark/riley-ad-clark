@@ -6,7 +6,7 @@
 ## About 🖥️🥁 
 Hello! My name is Riley Clark. I am a full-stack software developer based in Winnipeg, Manitoba.
 
-I am currently working at Glacier FarmMedia creating sponsored email promotions, but nonetheless, I have some side projects I enjoy working on!
+I am currently working at <a href="https://home.farmmedia.com/" target="_blank">Glacier FarmMedia</a> as a Digital Campaign Co-ordinator creating email promotionals, but nonetheless, I have some side projects I enjoy working on!
 
 Be sure to check out my skills section to see what I know!
 
