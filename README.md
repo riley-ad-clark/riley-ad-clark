@@ -3,18 +3,16 @@
 </p>
 
 
-## About 🖥️🥁 
-Hello! My name is Riley Clark. I am a full-stack software developer based in Winnipeg, Manitoba.
+## About 🖥️
+Hi, I’m Riley Clark; a full-stack developer based in Winnipeg, Manitoba.
 
-I am currently working at <a href="https://home.farmmedia.com/" target="_blank">Glacier FarmMedia</a> as a Digital Campaign Co-ordinator creating email promotionals, but nonetheless, I have some side projects I enjoy working on!
+I currently work at <a href="https://home.farmmedia.com/" target="_blank">Glacier FarmMedia</a> as a Digital Campaign Co-ordinator building email promotions. In my free time, I have some side projects I enjoy working on.
 
-Be sure to check out my skills section to see what I know!
-
-Feel free to check out some of my work! | <a style="color:#2aa889" href="https://rileyclark.work" target="_blank">rileyclark.work</a>
+Feel free to check out some of my work, and skills on my website <strong>-></strong> <a style="color:#2aa889" href="https://rileyclark.work" target="_blank">rileyclark.work</a>
 
 ##
 
-### Technical Skills 💡✍️
+### Technical Skills 💡
   <div align="center"><h3>Languages / Lightweights</h3></div>
   <p align="center">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
